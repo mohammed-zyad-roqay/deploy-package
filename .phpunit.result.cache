@@ -1,1 +1,0 @@
-{"version":1,"defects":{"Tests\\Unit\\DeployCommandTest::testDeployCommandExecutesSuccessfully":3,"Tests\\Unit\\DeployCommandTest::testDeployCommandFailsWithInvalidEnvironment":4},"times":{"Tests\\Unit\\DeployCommandTest::testDeployCommandExecutesSuccessfully":0.107,"Tests\\Unit\\DeployCommandTest::testDeployCommandFailsWithInvalidEnvironment":0.006}}
